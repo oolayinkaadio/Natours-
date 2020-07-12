@@ -1,4 +1,4 @@
-#Natours Application
+# Natours Application
 
 Built using the following technologies:
 node.js
