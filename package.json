@@ -33,7 +33,7 @@
         "nodemailer": "^4.7.0",
         "nodemon": "^2.0.4",
         "pug": "^2.0.4",
-        "sharp": "^0.25.4",
+        "sharp": "^0.30.5",
         "slugify": "^1.4.2",
         "stripe": "^7.15.0",
         "validator": "^13.1.1",
